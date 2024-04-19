@@ -1,4 +1,4 @@
-wss://x1node.gremango-test-network.techalchemy.dev/ws
+wss://x1node.gremango-test-network.dev/ws
 
 
 
@@ -18,7 +18,7 @@ http://18.130.243.42:8050/
 
 
 
-sudo ln -s sites-available/testnet-explorer.gremango-test-network.techalchemy.dev sites-enabled/
+sudo ln -s sites-available/testnet-explorer.gremango-test-network.dev sites-enabled/
 
 
-sudo ln -s /etc/nginx/sites-available/testnet-explorer.gremango-test-network.techalchemy.dev /etc/nginx/sites-enabled/
+sudo ln -s /etc/nginx/sites-available/testnet-explorer.gremango-test-network.dev /etc/nginx/sites-enabled/
